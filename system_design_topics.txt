@@ -1,4 +1,4 @@
-25 must-know concepts before your next system design interview:
+25 must-know concepts to study for system design:
 
 1. Scalability - How will your system handle growth? Vertical or Horizontal scaling?
 
